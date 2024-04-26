@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_arrow_back" />
+    <drawable name="list_selector_background" />
+    <drawable name="ic_delete" />
+</resources>

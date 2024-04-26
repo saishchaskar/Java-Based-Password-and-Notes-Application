@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="Title"
+        android:hint="Add Title"
+        android:inputType="text"
+        android:maxLines="1"
+        android:textColorHint="@color/grey" />
+
+    <EditText
+        android:id="@+id/contentEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Add Content "
+        android:inputType="textMultiLine"
+        android:minLines="3"
+        android:textColorHint="@color/grey"
+        android:autofillHints="Add content" />
+
+</LinearLayout>

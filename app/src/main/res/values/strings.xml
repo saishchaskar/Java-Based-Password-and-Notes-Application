@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PASSNOTE</string>
+    <string name="add_note">ADD NOTE</string>
+    <string name="add_a_new_note">Add a new note</string>
+    <string name="back">Back</string>
+    <string name="no_notes" />
+    <string name="edit_password_title" />
+    <string name="site_hint" />
+    <string name="username_hint" />
+    <string name="password_hint" />
+    <string name="submit_button_text" />
+    <string name="delete_note" />
+    <string name="note_text_hint" />
+    <string name="note_title_hint" />
+    <string name="title">Title</string>
+    <string name="website">WebSite</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

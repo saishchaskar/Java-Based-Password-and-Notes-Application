@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text" type="id" />
+    <item name="timestamp" type="id" />
+    <item name="recycler_view" type="id" />
+    <item name="edit_text" type="id" />
+    <item name="title" type="id" />
+    <item name="username" type="id" />
+    <item name="domainTextView" type="id" />
+    <item name="usernameTextView" type="id" />
+    <item name="passwordTextView" type="id" />
+    <item name="editButton" type="id" />
+    <item name="copyButton" type="id" />
+    <item name="deleteButton" type="id" />
+    <item name="dialogDomainTextView" type="id" />
+    <item name="dialogUsernameTextView" type="id" />
+    <item name="dialogPasswordTextView" type="id" />
+    <item name="et_password" type="id" />
+    <item name="contentTextView" type="id" />
+    <item name="editTextNoteContent" type="id" />
+    <item name="buttonAddNote" type="id" />
+    <item name="editTextNoteTitle" type="id" />
+</resources>
